@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/my_camera_package/my_camera_package.egg-info
+writing ../../build/my_camera_package/my_camera_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_camera_package/my_camera_package.egg-info/dependency_links.txt
+writing entry points to ../../build/my_camera_package/my_camera_package.egg-info/entry_points.txt
+writing requirements to ../../build/my_camera_package/my_camera_package.egg-info/requires.txt
+writing top-level names to ../../build/my_camera_package/my_camera_package.egg-info/top_level.txt
+writing manifest file '../../build/my_camera_package/my_camera_package.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_camera_package/my_camera_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_camera_package/my_camera_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sagar/ros2_ws/build/my_camera_package/build
+creating /home/sagar/ros2_ws/build/my_camera_package/build/lib
+creating /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package
+copying my_camera_package/__init__.py -> /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package
+copying my_camera_package/image2.py -> /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package
+copying my_camera_package/occupancy_grid_map_node.py -> /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package
+copying my_camera_package/image_listener.py -> /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package
+copying my_camera_package/grid.py -> /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package
+running install
+running install_lib
+creating /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package
+copying /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package/image_listener.py -> /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package
+copying /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package/grid.py -> /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package
+copying /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package/image2.py -> /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package
+copying /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package/occupancy_grid_map_node.py -> /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package
+copying /home/sagar/ros2_ws/build/my_camera_package/build/lib/my_camera_package/__init__.py -> /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package
+byte-compiling /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package/image_listener.py to image_listener.cpython-38.pyc
+byte-compiling /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package/grid.py to grid.cpython-38.pyc
+byte-compiling /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package/image2.py to image2.cpython-38.pyc
+byte-compiling /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package/occupancy_grid_map_node.py to occupancy_grid_map_node.cpython-38.pyc
+byte-compiling /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package/__init__.py to __init__.cpython-38.pyc
+running install_egg_info
+Copying ../../build/my_camera_package/my_camera_package.egg-info to /home/sagar/ros2_ws/install/my_camera_package/lib/python3.8/site-packages/my_camera_package-0.0.0-py3.8.egg-info
+running install_scripts
+Installing image2 script to /home/sagar/ros2_ws/install/my_camera_package/lib/my_camera_package
+Installing occupancy_grid_map_node script to /home/sagar/ros2_ws/install/my_camera_package/lib/my_camera_package
+writing list of installed files to '/home/sagar/ros2_ws/build/my_camera_package/install.log'

@@ -1,0 +1,4 @@
+[console_scripts]
+image2 = my_camera_package.image2:main
+occupancy_grid_map_node = my_camera_package.occupancy_grid_map_node:main
+

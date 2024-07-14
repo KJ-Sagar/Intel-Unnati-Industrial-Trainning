@@ -1,0 +1,37 @@
+[0.776s] Invoking command in '/home/sagar/ros2_ws/src/env_map': PYTHONPATH=/home/sagar/ros2_ws/src/env_map/build/env_map/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/env_map build --build-base /home/sagar/ros2_ws/src/env_map/build/env_map/build install --record /home/sagar/ros2_ws/src/env_map/build/env_map/install.log --install-scripts $base/lib/env_map --single-version-externally-managed install_data
+[0.978s] running egg_info
+[0.979s] creating build/env_map/env_map.egg-info
+[0.980s] writing build/env_map/env_map.egg-info/PKG-INFO
+[0.980s] writing dependency_links to build/env_map/env_map.egg-info/dependency_links.txt
+[0.980s] writing entry points to build/env_map/env_map.egg-info/entry_points.txt
+[0.981s] writing requirements to build/env_map/env_map.egg-info/requires.txt
+[0.981s] writing top-level names to build/env_map/env_map.egg-info/top_level.txt
+[0.986s] writing manifest file 'build/env_map/env_map.egg-info/SOURCES.txt'
+[1.016s] reading manifest file 'build/env_map/env_map.egg-info/SOURCES.txt'
+[1.017s] writing manifest file 'build/env_map/env_map.egg-info/SOURCES.txt'
+[1.017s] running build
+[1.017s] running build_py
+[1.018s] creating /home/sagar/ros2_ws/src/env_map/build/env_map/build
+[1.018s] creating /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib
+[1.018s] creating /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map
+[1.018s] copying env_map/env_map.py -> /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map
+[1.018s] copying env_map/__init__.py -> /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map
+[1.018s] running install
+[1.019s] running install_lib
+[1.020s] creating /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map
+[1.020s] copying /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map/env_map.py -> /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map
+[1.021s] copying /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map/__init__.py -> /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map
+[1.021s] byte-compiling /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map/env_map.py to env_map.cpython-38.pyc
+[1.023s] byte-compiling /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map/__init__.py to __init__.cpython-38.pyc
+[1.024s] running install_data
+[1.024s] creating /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index
+[1.024s] creating /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index/resource_index
+[1.024s] creating /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index/resource_index/packages
+[1.024s] copying resource/env_map -> /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index/resource_index/packages
+[1.025s] copying package.xml -> /home/sagar/ros2_ws/src/env_map/install/env_map/share/env_map
+[1.025s] running install_egg_info
+[1.026s] Copying build/env_map/env_map.egg-info to /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map-0.0.0-py3.8.egg-info
+[1.027s] running install_scripts
+[1.049s] Installing object_detection_node script to /home/sagar/ros2_ws/src/env_map/install/env_map/lib/env_map
+[1.050s] writing list of installed files to '/home/sagar/ros2_ws/src/env_map/build/env_map/install.log'
+[1.076s] Invoked command in '/home/sagar/ros2_ws/src/env_map' returned '0': PYTHONPATH=/home/sagar/ros2_ws/src/env_map/build/env_map/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/env_map build --build-base /home/sagar/ros2_ws/src/env_map/build/env_map/build install --record /home/sagar/ros2_ws/src/env_map/build/env_map/install.log --install-scripts $base/lib/env_map --single-version-externally-managed install_data

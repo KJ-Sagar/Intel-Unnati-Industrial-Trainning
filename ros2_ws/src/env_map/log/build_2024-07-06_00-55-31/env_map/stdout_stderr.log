@@ -1,0 +1,35 @@
+running egg_info
+creating build/env_map/env_map.egg-info
+writing build/env_map/env_map.egg-info/PKG-INFO
+writing dependency_links to build/env_map/env_map.egg-info/dependency_links.txt
+writing entry points to build/env_map/env_map.egg-info/entry_points.txt
+writing requirements to build/env_map/env_map.egg-info/requires.txt
+writing top-level names to build/env_map/env_map.egg-info/top_level.txt
+writing manifest file 'build/env_map/env_map.egg-info/SOURCES.txt'
+reading manifest file 'build/env_map/env_map.egg-info/SOURCES.txt'
+writing manifest file 'build/env_map/env_map.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sagar/ros2_ws/src/env_map/build/env_map/build
+creating /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib
+creating /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map
+copying env_map/env_map.py -> /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map
+copying env_map/__init__.py -> /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map
+running install
+running install_lib
+creating /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map
+copying /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map/env_map.py -> /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map
+copying /home/sagar/ros2_ws/src/env_map/build/env_map/build/lib/env_map/__init__.py -> /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map
+byte-compiling /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map/env_map.py to env_map.cpython-38.pyc
+byte-compiling /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index
+creating /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index/resource_index
+creating /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index/resource_index/packages
+copying resource/env_map -> /home/sagar/ros2_ws/src/env_map/install/env_map/share/ament_index/resource_index/packages
+copying package.xml -> /home/sagar/ros2_ws/src/env_map/install/env_map/share/env_map
+running install_egg_info
+Copying build/env_map/env_map.egg-info to /home/sagar/ros2_ws/src/env_map/install/env_map/lib/python3.8/site-packages/env_map-0.0.0-py3.8.egg-info
+running install_scripts
+Installing object_detection_node script to /home/sagar/ros2_ws/src/env_map/install/env_map/lib/env_map
+writing list of installed files to '/home/sagar/ros2_ws/src/env_map/build/env_map/install.log'

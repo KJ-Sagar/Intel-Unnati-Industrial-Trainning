@@ -1,0 +1,10 @@
+This repository contains the files required for the simulation of the 2d occupancy grid
+The Folder Scripts contains 2 files
+1. Final_Script.py
+2. Latency_measurement.py
+
+the first script should be run only after the successful launch of the gazebo house simulation.
+the second script's functionality is only to measure the latency of the grid generation.
+the yolov3.cfg and the yolov3.weights files must be present in the same directory as the final_script.py
+
+Thank You!

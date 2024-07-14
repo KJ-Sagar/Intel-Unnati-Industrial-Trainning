@@ -23,13 +23,13 @@ The main goal of this project is to create a 2D occupancy grid map using overhea
 
 The Gazebo Simulation Setup guide provides step-by-step instructions to set up the Gazebo simulation environment for TurtleBot3.
 
-[Read more](..Gazebo Setup)
+[Read more](../Gazebo_Setup/Gazebo_Setup_Instructions.md)
 
 ### SLAM Simulation Setup
 
 The SLAM Simulation Setup guide provides step-by-step instructions to set up the SLAM simulation environment for TurtleBot3.
 
-[Read more](../slam_simulation/README.md)
+[Read more](../SLAM_Simulation_Setup/SLAM_Simulation_Setup_Instructions.md)
 
 ### Navigation Simulation Setup
 
